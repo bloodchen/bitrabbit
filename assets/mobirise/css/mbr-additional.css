@@ -1881,3 +1881,26 @@ body {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
+.cid-rfWtlmrlBE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rfWtlmrlBE [class^="socicon-"]:before,
+.cid-rfWtlmrlBE [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-rfWtlmrlBE .btn-social {
+  border-color: #149dcc;
+}
+.cid-rfWtlmrlBE .btn-social:hover {
+  background: #149dcc;
+}
+.cid-rfWtlmrlBE .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-rfWtlmrlBE .btn {
+    font-size: 20px !important;
+  }
+}
